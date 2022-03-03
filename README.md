@@ -1,1 +1,1 @@
-# Lab-4
+This simple ALU code uses an inputted 3-bit opcode (3 bit input of 1111 will result in 0 output)  to select from a combination of a full adder, multiple simple logic gates, and a shifter function all assigned from two 32-bit inputs to give one final 32-bit output depending on what was selected.
